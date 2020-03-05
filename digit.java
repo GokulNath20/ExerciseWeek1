@@ -1,4 +1,4 @@
-import java.util.Scanner;//import Scanne class
+import java.util.Scanner;//import Scanner class
 public class digit{//class name
 
 public static void main(String[] args){
